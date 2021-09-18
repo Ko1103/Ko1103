@@ -35,12 +35,10 @@ Here are some ideas to get you started:
 <a href="https://www.mongodb.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="mongodb" width="50" height="50"></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="amazonwebservice" width="50" height="50"></a>
 
-<h1>🏆 Github Profile Trophy</h1>
+<h1>🏆 GitHub Profile Trophy</h1>
+<img src="https://github-profile-trophy.vercel.app/?username=Ko1103&theme=onedark" alt="GitHub Profile Trophy">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ko1103&theme=onedark)](https://github.com/Ko1103)
 
-
-<h1>📊 GitHub Stats </h1>
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ko1103&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ko1103&layout=compact)
+<h1>📊 GitHub Stats</h1>
+<img src="https://github-readme-stats.vercel.app/api?username=Ko1103&count_private=true&include_all_commits=true" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ko1103&layout=compact" alt="Most Used Languages">
