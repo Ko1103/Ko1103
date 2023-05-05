@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 <p>I’m currently working on update my portfolio website. Click <a href="https://ko-yamaura.com" target="_blank" rel="noopener noreferrer">here</a> to see it.</p>
 
 <h1>🌱 I’m currently learning ... </h1>
-<a href="https://tailwindcss.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="50" height="50"></a>
-<a href="https://www.gatsbyjs.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-plain.svg" alt="gatsby" width="50" height="50"></a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="50" height="50"></a>
+<a href="https://nestjs.com" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="50" height="50"></a>
 
 <h1>✍️ Languages and Tools</h1>
 <a href="https://developer.apple.com/swift" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="50" height="50"></a>
